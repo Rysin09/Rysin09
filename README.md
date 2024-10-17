@@ -1,10 +1,7 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Aryan Singh</h1>
 <h3 align="center">A passionate and driven student currently pursuing a dual degree: BSc (Hons) in Computer Science and Data Analytics from IIT Patna and BTech in Computer Science and Engineering from AKTU. 💻 I specialize in UI/UX and Graphics Design as a freelancer, bringing creative and user-centric designs to life. Currently, I’m mastering Web Development and diving deep into the world of Artificial Intelligence and related technologies, aiming to build a career in this exciting field. 🌟 My journey is fueled by a relentless curiosity and a desire to innovate. Let’s connect and collaborate on projects that push the boundaries of technology!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arsin-09&label=Profile%20views&color=0e75b6&style=flat" alt="arsin-09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arsin-09" alt="arsin-09" /></a> </p>
 
 - 🔭 I’m currently working on **Personal Portfolio Website, Ormasy - The Virtual Organization Manager**
 
@@ -25,6 +22,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arsin-09&show_icons=true&locale=en&layout=compact" alt="arsin-09" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsin-09&show_icons=true&locale=en" alt="arsin-09" /></p>
+
 
 
 
