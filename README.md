@@ -61,4 +61,10 @@
 ###
 ###
 
+- [RetaillQ-E-Commerce-Analysis](https://github.com/Rysin09/RetaillQ-E-Commerce-Analysis): A comprehensive data warehouse project for extracting actionable insights from sales data. Stars: 0, Language: TSQL, Forks: 0, Issues: 0
+- [Real-Estate-Market-Trends-and-Sales-Analysis](https://github.com/Rysin09/Real-Estate-Market-Trends-and-Sales-Analysis): An advanced BI dashboard visualizing the real estate market, focusing on sales trends and investment yields. Stars: 0, Language: Not specified, Forks: 0, Issues: 0
+- [Loan-Default-Risk-Analysis](https://github.com/Rysin09/Loan-Default-Risk-Analysis): A dashboard powered by Dataflow Gen 2 to analyze loan default risks using advanced analytics. Stars: 0, Language: Not specified, Forks: 0, Issues: 0
+- [Employee-Salary-Prediction](https://github.com/Rysin09/Employee-Salary-Prediction): A Streamlit-based web application that predicts employee salaries using regression models. Stars: 0, Language: Jupyter Notebook, Forks: 0, Issues: 0
+- [Banking-Analysis](https://github.com/Rysin09/Banking-Analysis): A comprehensive analysis of customer banking data focusing on behavior and product usage. Stars: 0, Language: Jupyter Notebook, Forks: 0, Issues: 0
+
 
