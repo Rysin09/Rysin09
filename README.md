@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
- <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
-<dotlottie-wc src="https://lottie.host/065e2754-2f5f-4538-b102-6551c118ddc7/XqZpFTyJLs.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
+  <img src="[https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop](https://cdnl.iconscout.com/lottie/premium/thumb/front-end-developer-animation-gif-download-4453020.mp4)" alt="Data & ML Banner" width="100%" />
 </p>
 
 <!-- Title & Tagline -->
@@ -146,6 +145,7 @@ Current focus: end-to-end analytics pipelines, LLM-assisted analytics, and cost-
 2) Keep “Recent projects” up to date for the strongest first impression.
 3) Consider pinning 6 repositories that match your narrative (analytics, ML, BI, MLOps).
 -->
+
 
 
 
