@@ -1,10 +1,10 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhuZDlzcDIxajN1dW1iM3dvcWNwZGhrcmxxbDVscmo0amRjbjh0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" alt="Data & ML Banner" width="20%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhuZDlzcDIxajN1dW1iM3dvcWNwZGhrcmxxbDVscmo0amRjbjh0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" alt="Data & ML Banner" width="22%" />
 </p>
 
 <!-- Title & Tagline -->
-<h1 align="center">Hi there, I'm <span style="color:#3b82f6">[Your Name]</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#3b82f6">Aryan Singh</span> 👋</h1>
 <p align="center">
   Data Analyst • Machine Learning Engineer • Turning messy data into measurable impact
 </p>
@@ -19,17 +19,17 @@
 
 ---
 
-### About me
+### 🧠 About Me
 
 - Data storyteller focused on analytics engineering, experimentation, and production ML with a business-first mindset.  
 - Comfortable across the stack: ingestion, modeling, BI, and MLOps for reliable, explainable insights.  
 - Strong track record in dashboarding, feature engineering, and deploying models that ship value.  
 
-Current focus: end-to-end analytics pipelines, LLM-assisted analytics, and cost-aware cloud architectures.
+🎯 **Current focus:** End-to-end analytics pipelines, LLM-assisted analytics, and cost-aware cloud architectures.
 
 ---
 
-### Skills
+### ⚙️ Skills
 
 #### Languages
 <p>
@@ -73,43 +73,79 @@ Current focus: end-to-end analytics pipelines, LLM-assisted analytics, and cost-
 
 ---
 
-### Recent projects
+### 🚀 Featured Projects
 
-<!-- Replace the links below with your real projects -->
 <div align="center">
 
-  <a href="https://github.com/yourhandle/retail-demand-forecasting">
-    <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-Prophet%20%7C%20XGBoost-111827?style=for-the-badge&logo=clockify&logoColor=white" />
-  </a>
-  <br/>
+<table>
+<tr>
+<td align="center" width="50%">
+  
+#### 🧭 **Retail Demand Forecasting**
+<p>
+  Predictive time-series model to forecast retail demand using Prophet & XGBoost.  
+  Automated data preprocessing and trend detection for dynamic inventory planning.
+</p>
+<p>
+  🔗 <a href="https://github.com/yourhandle/retail-demand-forecasting">View Project</a>
+</p>
 
-  <a href="https://github.com/yourhandle/customer-churn-mlops">
-    <img src="https://img.shields.io/badge/Customer%20Churn-MLflow%20%7C%20Docker%20%7C%20FastAPI-0f766e?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <br/>
+</td>
+<td align="center" width="50%">
 
-  <a href="https://github.com/yourhandle/analytics-engineering-bq">
-    <img src="https://img.shields.io/badge/ELT%20on%20BigQuery-DBT%20%7C%20Data%20Quality-1f2937?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  </a>
-  <br/>
+#### 🔍 **Customer Churn MLOps Pipeline**
+<p>
+  End-to-end churn prediction system built with MLflow, Docker & FastAPI.  
+  Features automated model tracking, versioning, and deployment workflows.
+</p>
+<p>
+  🔗 <a href="https://github.com/yourhandle/customer-churn-mlops">View Project</a>
+</p>
 
-  <a href="https://public.tableau.com/app/profile/yourhandle">
-    <img src="https://img.shields.io/badge/BI%20Portfolio-Power%20BI%20%7C%20Tableau-f59e0b?style=for-the-badge&logo=tableau&logoColor=white" />
-  </a>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="50%">
+
+#### 🧱 **Analytics Engineering on BigQuery**
+<p>
+  Modular ELT architecture using dbt and BigQuery for data transformation, testing, and lineage tracking.  
+  Focused on scalability & governance.
+</p>
+<p>
+  🔗 <a href="https://github.com/yourhandle/analytics-engineering-bq">View Project</a>
+</p>
+
+</td>
+<td align="center" width="50%">
+
+#### 📊 **BI Dashboard Portfolio**
+<p>
+  Interactive dashboards in Power BI & Tableau showcasing data-driven storytelling.  
+  Focus on KPI visualization and business insights.
+</p>
+<p>
+  🔗 <a href="https://public.tableau.com/app/profile/yourhandle">View Portfolio</a>
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-### Highlights
+### 🏅 Highlights
 
-- Reproducible analytics stacks with versioned data transformations and automated tests.  
-- Practical ML with clear metrics, error analysis, and bias checks baked into the pipeline.  
-- Stakeholder-first dashboards that surface KPIs and drill-downs without clutter.  
+- Reproducible analytics stacks with versioned transformations & automated tests.  
+- Practical ML with explainable metrics, error analysis, and bias control.  
+- Stakeholder-first dashboards that surface KPIs clearly without clutter.  
 
 ---
 
-### Toolchain snapshots
+### 🧩 Toolchain Snapshots
 
 <p>
   <img src="https://img.shields.io/badge/ETL/ELT-Airflow%20(alt)/DBT/Power%20Query-lightgrey?style=flat" />
@@ -121,30 +157,16 @@ Current focus: end-to-end analytics pipelines, LLM-assisted analytics, and cost-
 
 ---
 
-### GitHub stats
+### 🤝 Let’s Connect
+
+- 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)  
+- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
+- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=yourhandle&show_icons=true&theme=react&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=yourhandle&theme=react&hide_border=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:fbbf24&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontColor=000000" />
 </p>
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourhandle&layout=compact&theme=react&hide_border=true" />
-</p>
-
----
-
-### Let’s connect
-
-- Portfolio: https://your-portfolio.site  
-- LinkedIn: https://www.linkedin.com/in/your-handle/  
-- Email: your.email@example.com  
-
-<!-- Tips:
-1) Create a repository named exactly your GitHub username to make this README your profile.
-2) Keep “Recent projects” up to date for the strongest first impression.
-3) Consider pinning 6 repositories that match your narrative (analytics, ML, BI, MLOps).
--->
 
 
 
