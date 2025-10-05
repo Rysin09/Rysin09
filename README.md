@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""C:\Users\thear\Downloads\Isometric data analysis.webm"" alt="Data & ML Banner" width="30%" />
+ <script src="https://unpkg.com/@lottiefiles/dotlottie-wc@0.8.1/dist/dotlottie-wc.js" type="module"></script>
+<dotlottie-wc src="https://lottie.host/065e2754-2f5f-4538-b102-6551c118ddc7/XqZpFTyJLs.lottie" style="width: 300px;height: 300px" autoplay loop></dotlottie-wc>
 </p>
 
 <!-- Title & Tagline -->
