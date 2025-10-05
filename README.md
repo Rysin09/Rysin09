@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop](https://cdnl.iconscout.com/lottie/premium/thumb/front-end-developer-animation-gif-download-4453020.mp4)" alt="Data & ML Banner" width="100%" />
+  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" alt="Data & ML Banner" width="100%" />
 </p>
 
 <!-- Title & Tagline -->
