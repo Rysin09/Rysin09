@@ -12,7 +12,7 @@
 <!-- Quick Badges -->
 <p align="center">
   <a href="mailto:ace.aryan09@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
-  <a href="www.linkedin.com/in/aryan-singh-358556245"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/aryan-singh-358556245/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BNTcNhQbNSIetSojlb0qtfg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
   <a href="https://aryan-singh.framer.website/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/rysin09"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=flat&logo=github"></a>
 </p>
@@ -29,7 +29,7 @@
 
 ---
 
-### 💡 Core Skills & Technologies:
+###  Core Skills & Technologies:
 
 Here are some of the technologies I'm proficient in.
 
@@ -98,7 +98,7 @@ Here are some of the technologies I'm proficient in.
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 <div align="center">
 
@@ -162,7 +162,7 @@ Here are some of the technologies I'm proficient in.
 
 ---
 
-### 🏅 Highlights
+###  Highlights
 
 - Reproducible analytics stacks with versioned transformations & automated tests.  
 - Practical ML with explainable metrics, error analysis, and bias control.  
@@ -170,7 +170,7 @@ Here are some of the technologies I'm proficient in.
 
 ---
 
-### 🧩 Toolchain Snapshots
+###  Toolchain Snapshots
 
 <p>
   <img src="https://img.shields.io/badge/ETL/ELT-Airflow%20(alt)/DBT/Power%20Query-lightgrey?style=flat" />
@@ -182,14 +182,14 @@ Here are some of the technologies I'm proficient in.
 
 ---
 
-### 🤝 Let’s Connect
+###  Let’s Connect
 
 - 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)  
 - 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
 - ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:fbbf24&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontColor=000000" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:fbbf24&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontColor=FFFFFF" />
 </p>
 
 
