@@ -1,28 +1,23 @@
 <p align="center">
-  <img src="[https://i.imgur.com/gQCkZt8.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyMGM4MzB5ZWt2MXlwdGVnanZlM3V6N29tdnZobmtsMnlsZXFocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif)" alt="Coding Banner" width="20%"/>
-</p>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px">
-  <h1 align="center">Hi there, I'm [Your Name]! 👋</h1>
-</div>
-
-<div align="center">
-  <p align="center">
-    A passionate <strong>[Your Role, e.g., Full-Stack Developer]</strong> from <strong>[Your Location, e.g., Varanasi, India]</strong>. 
-    <br />I love building beautiful and functional applications and I'm always eager to learn new technologies.
+  <img src="https://i.imgur.com/8v5n0dK.png" alt="Data Analytics Banner" width="100%"/>
   </p>
+
+<div align="center">
+  <h1 align="center">Hi, I'm [Your Name] 👋</h1>
+  <h3>A Data Analyst & Business Intelligence Specialist from Varanasi, India 🇮🇳</h3>
 </div>
+
+<p align="center">
+  I am passionate about transforming raw data into actionable insights that drive business strategy. My expertise lies in building end-to-end data solutions, from creating robust ETL pipelines and managing complex databases to developing interactive, intuitive dashboards. I thrive on uncovering hidden patterns in data to help stakeholders make informed, data-driven decisions.
+</p>
 
 ---
 
-### 📬 Find me around the web:
-<p align="left">
+### 📬 Get in Touch
+
+<p align="center">
     <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-    </a>
-    <a href="https://twitter.com/YOUR-TWITTER-USERNAME" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter Profile"/>
     </a>
     <a href="https://your-portfolio-website.com" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Website"/>
@@ -34,120 +29,98 @@
 
 ---
 
-### 💡 Core Skills & Technologies:
+### 🛠️ My Technical Toolbox
 
-Here are some of the technologies I'm proficient in.
+Here's a list of the primary technologies and tools I work with.
 
-<table>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-      <br><strong>JavaScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-      <br><strong>TypeScript</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
-      <br><strong>React</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="Node.js" />
-      <br><strong>Node.js</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
-    </td>
-     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
-      <br><strong>Docker</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
-    </td>
-    <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🔥 Live GitHub Stats:
-
-These stats automatically update!
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&icon_color=79ff97&title_color=79ff97&text_color=c9d1d9" alt="[Your Name]'s GitHub Stats"/>
-  </a>
+<h4>Programming & Query Languages</h4>
+<p align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+    <img src="https://img.shields.io/badge/SQL-02B2DD?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" alt="Top Languages"/>
-  </a>
+<h4>Databases & Data Warehouses</h4>
+<p align="left">
+    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+    <img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white" alt="Google BigQuery"/>
+    <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
 </p>
 
-<p align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  </a>
+<h4>BI, Visualization & Data Tools</h4>
+<p align="left">
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Advanced Excel"/>
+    <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Power Query"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
+<h4>Cloud & DevOps</h4>
+<p align="left">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+
+<h4>Development Environment</h4>
+<p align="left">
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode"/>
+    <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm"/>
+    <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
+    <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies:
+### 📈 My Projects
 
-A fun way to visualize my contributions.
+Here are some of the key projects I've worked on.
+
+<h4>🚀 Project 1: Sales Performance Dashboard</h4>
+<p>
+  Developed an interactive dashboard in Power BI to track key sales metrics, including revenue, profit margins, and regional performance. This project involved cleaning and transforming data from multiple sources using Power Query and SQL, and creating a data model to support dynamic visualizations.
+</p>
+<p>
+  <strong>Technologies Used:</strong>
+  <br/>
+    <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/>
+    <img src="https://img.shields.io/badge/SQL-02B2DD?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+    <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+</p>
+<p>
+  <a href="[LINK-TO-YOUR-PROJECT-REPO]" target="_blank">🔗 View Repository</a> | 
+  <a href="[LINK-TO-LIVE-DASHBOARD-OR-DEMO]" target="_blank">📊 View Live Dashboard</a>
+</p>
+
+<hr/>
+
+<h4>🚀 Project 2: Customer Churn Prediction Model</h4>
+<p>
+  Built a machine learning model using Python to predict customer churn. The project included data exploration, feature engineering, model training (Logistic Regression, Random Forest), and evaluation. The final model helped identify at-risk customers with 85% accuracy.
+</p>
+<p>
+  <strong>Technologies Used:</strong>
+  <br/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter Notebook"/>
+</p>
+<p>
+  <a href="[LINK-TO-YOUR-PROJECT-REPO]" target="_blank">🔗 View Repository</a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR-USERNAME&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </p>
 
----
-
-### 💻 My Pinned Projects:
-
-Manually add your best projects here. Here's a template for one:
-
-**Project Name 1**
-<br/>
-*A brief, one-sentence description of your project. Explain what it does and the tech used.*
-<br/>
-<a href="[LINK-TO-REPO]" target="_blank">**View Repository**</a> | <a href="[LINK-TO-LIVE-DEMO]" target="_blank">**Live Demo**</a>
-
----
-
-###  visitors
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat-square&color=blueviolet" alt="Profile Visitor Counter"/>
 </p>
@@ -155,6 +128,5 @@ Manually add your best projects here. Here's a template for one:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:B2EBF2,100:FFD54F&height=120&section=footer" />
 </p>
-
 
 
