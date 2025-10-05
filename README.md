@@ -41,11 +41,11 @@ Here are some of the technologies I'm proficient in.
     </td>
     <td align="center" width="120">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png" width="48" height="48" alt="R Programming" />
-      <br><strong>R Programming</strong>
+      <br><strong>R Script</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://e7.pngegg.com/pngimages/170/924/png-clipart-microsoft-sql-server-microsoft-azure-sql-database-microsoft-text-logo.png" width="48" height="48" alt="React" />
-      <br><strong>SQL</strong>
+      <img src="https://w7.pngwing.com/pngs/424/702/png-transparent-microsoft-sql-server-database-microsoft-corporation-application-software-sql-logo-angle-triangle-symmetry.png" width="48" height="48" alt="React" />
+      <br><strong>MS-SQL</strong>
     </td>
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width="48" height="48" alt="Node.js" />
