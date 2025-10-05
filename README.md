@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" alt="Data & ML Banner" width="100%" />
+  <img src="https://media.tenor.com/hVX6r4kDu00AAAAi/ai-grok.gif" alt="Data & ML Banner" width="20%" />
 </p>
 
 <!-- Title & Tagline -->
