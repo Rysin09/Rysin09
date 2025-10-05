@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWF2YXJhY2w1ajJwaHlwYXh2d3A1c3U1MGFtbDQyZWQ5ZDdmbWdhZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gDH0pb1x7t9eoFXAnc/giphy.gif" alt="Data & ML Banner" width="20%" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjhuZDlzcDIxajN1dW1iM3dvcWNwZGhrcmxxbDVscmo0amRjbjh0aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bLVTnQvgggksbDXs7S/giphy.gif" alt="Data & ML Banner" width="20%" />
 </p>
 
 <!-- Title & Tagline -->
