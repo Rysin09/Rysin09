@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title & Tagline -->
-<h1 align="center">Hi there, I'm <span style="color:#3b82f6">Aryan Singh</span> 👋</h1>
+<h1 align="center">print<span style="color:#3b82f6">("Hey There, This is Aryan Singh")</span> 👋</h1>
 <p align="center">
   Data Analyst • Machine Learning Engineer • Turning messy data into measurable impact
 </p>
