@@ -1,6 +1,6 @@
 <!-- ====== TOP BANNER (reliable GIF) ====== -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyMGM4MzB5ZWt2MXlwdGVnanZlM3V6N29tdnZobmtsMnlsZXFocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Coding Banner" width="100%"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDhyMGM4MzB5ZWt2MXlwdGVnanZlM3V6N29tdnZobmtsMnlsZXFocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" alt="Coding Banner" width="20%"/>
 </p>
 
 <div align="center">
