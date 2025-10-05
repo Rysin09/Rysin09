@@ -40,7 +40,7 @@ Here are some of the technologies I'm proficient in.
       <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://download.logo.wine/logo/R_(programming_language)/R_(programming_language)-Logo.wine.png" width="48" height="48" alt="R Programming" />
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/r-programming-language-icon.png" width="48" height="48" alt="R Programming" />
       <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="120">
