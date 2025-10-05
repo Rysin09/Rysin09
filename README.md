@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600&auto=format&fit=crop](https://app.lottiefiles.com/share/cb4322de-aeee-40b5-8051-2c8eb4870ce8)" alt="Data & ML Banner" width="30%" />
+  <img src=""C:\Users\thear\Downloads\Isometric data analysis.webm"" alt="Data & ML Banner" width="30%" />
 </p>
 
 <!-- Title & Tagline -->
