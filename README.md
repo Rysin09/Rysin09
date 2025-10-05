@@ -11,15 +11,15 @@
 
 <!-- Quick Badges -->
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
-  <a href="https://www.linkedin.com/in/your-handle/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
-  <a href="https://your-portfolio.site/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat&logo=vercel&logoColor=white"></a>
-  <a href="https://github.com/yourhandle?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=flat&logo=github"></a>
+  <a href="mailto:ace.aryan09@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat&logo=gmail&logoColor=white&color=EA4335"></a>
+  <a href="www.linkedin.com/in/aryan-singh-358556245"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin"></a>
+  <a href="https://aryan-singh.framer.website/"><img src="https://img.shields.io/badge/Portfolio-Visit-0ea5e9?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/rysin09"><img src="https://img.shields.io/badge/GitHub-Explore-111827?style=flat&logo=github"></a>
 </p>
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - Data storyteller focused on analytics engineering, experimentation, and production ML with a business-first mindset.  
 - Comfortable across the stack: ingestion, modeling, BI, and MLOps for reliable, explainable insights.  
@@ -44,7 +44,7 @@ Here are some of the technologies I'm proficient in.
       <br><strong>R Script</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://w7.pngwing.com/pngs/424/702/png-transparent-microsoft-sql-server-database-microsoft-corporation-application-software-sql-logo-angle-triangle-symmetry.png" width="48" height="48" alt="React" />
+      <img src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sql-server-logo.png" width="48" height="48" alt="React" />
       <br><strong>MS-SQL</strong>
     </td>
     <td align="center" width="120">
@@ -52,38 +52,46 @@ Here are some of the technologies I'm proficient in.
       <br><strong>PostgreSQL</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      <br><strong>Python</strong>
+      <img src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="48" height="48" alt="MySQL" />
+      <br><strong>MySQL</strong>
     </td>
      <td align="center" width="120">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
       <br><strong>Docker</strong>
     </td>
+    <td align="center" width="120">
+      <img src="https://logopng.com.br/logos/aws-171.png" width="48" height="48" alt="Docker" />
+      <br><strong>AWS</strong>
+    </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="48" height="48" alt="HTML5" />
-      <br><strong>HTML5</strong>
+      <img src="https://companieslogo.com/img/orig/SNOW-35164165.png?t=1720244494" width="48" height="48" alt="Snowflake" />
+      <br><strong>Snowflake</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="48" height="48" alt="CSS3" />
-      <br><strong>CSS3</strong>
+      <img src="https://swimburger.net/media/ppnn3pcl/azure.png" width="48" height="48" alt="Azure" />
+      <br><strong>Azure</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
-      <br><strong>MongoDB</strong>
+      <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Logo-2013.png" width="60" height="60" alt="Power BI" />
+      <br><strong>Power BI</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="48" height="48" alt="PostgreSQL" />
-      <br><strong>PostgreSQL</strong>
+      <img src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" width="60" height="60" alt="Tableau" />
+      <br><strong>Tableau</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="48" height="48" alt="Git" />
-      <br><strong>Git</strong>
+      <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Excel-Logo.png" width="60" height="60" alt="Excel" />
+      <br><strong>MS Excel</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
-      <br><strong>Figma</strong>
+      <img src="https://avatars.githubusercontent.com/u/497012?s=280&v=4" width="48" height="48" alt="Anaconda" />
+      <br><strong>Anaconda</strong>
+    </td>
+    <td align="center" width="120">
+      <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/visual-studio-code-icon.png" width="48" height="48" alt="VSCode" />
+      <br><strong>VSCode</strong>
     </td>
   </tr>
 </table>
