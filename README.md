@@ -106,25 +106,23 @@ Here are some of the technologies I'm proficient in.
 <tr>
 <td align="center" width="50%">
   
-#### 🧭 **Retail Demand Forecasting**
+#### 📊 **Quantium Data Analysis Job Simulation**
 <p>
-  Predictive time-series model to forecast retail demand using Prophet & XGBoost.  
-  Automated data preprocessing and trend detection for dynamic inventory planning.
+Analyzes retail transaction and customer data to understand chip purchasing behavior. The project identifies high-value segments and top brands, then measures the sales uplift from an in-store trial by selecting a suitable control store. It concludes with data-driven recommendations for marketing and store strategy.
 </p>
 <p>
-  🔗 <a href="https://github.com/yourhandle/retail-demand-forecasting">View Project</a>
+  🔗 <a href="https://github.com/Rysin09/Quantium-Data-Analytics-Job-Simulation">View Project</a>
 </p>
 
 </td>
 <td align="center" width="50%">
 
-#### 🔍 **Customer Churn MLOps Pipeline**
+#### 🔍 **RetaillQ E- Commerce Analysis**
 <p>
-  End-to-end churn prediction system built with MLflow, Docker & FastAPI.  
-  Features automated model tracking, versioning, and deployment workflows.
+A comprehensive data warehouse and business intelligence project designed to extract actionable insights from sales data. This repository contains the SQL scripts to set up a data warehouse, perform advanced analytics, and generate reports on customer behavior, product performance, and overall sales trends.
 </p>
 <p>
-  🔗 <a href="https://github.com/yourhandle/customer-churn-mlops">View Project</a>
+  🔗 <a href="https://github.com/Rysin09/RetaillQ-E-Commerce-Analysis">View Project</a>
 </p>
 
 </td>
@@ -133,25 +131,23 @@ Here are some of the technologies I'm proficient in.
 <tr>
 <td align="center" width="50%">
 
-#### 🧱 **Analytics Engineering on BigQuery**
+#### 📈 **Real Estate Market Trends and Sales Analysis**
 <p>
-  Modular ELT architecture using dbt and BigQuery for data transformation, testing, and lineage tracking.  
-  Focused on scalability & governance.
+  An advanced BI dashboard analyzing the real estate market. It visualizes sales trends , regional performance (Zealand leads with 95bn in sales) , and investment yields (farms at 4.6%) using a historical dataset dating back to 1992. A powerful tool for data-driven property insights.
 </p>
 <p>
-  🔗 <a href="https://github.com/yourhandle/analytics-engineering-bq">View Project</a>
+  🔗 <a href="https://github.com/Rysin09/Real-Estate-Market-Trends-and-Sales-Analysis">View Project</a>
 </p>
 
 </td>
 <td align="center" width="50%">
 
-#### 📊 **BI Dashboard Portfolio**
+#### 💹 **Loan Default Risk Analysis**
 <p>
-  Interactive dashboards in Power BI & Tableau showcasing data-driven storytelling.  
-  Focus on KPI visualization and business insights.
+  A high-performance loan default risk dashboard powered by Dataflow Gen 2. It uses advanced DAX and Power Query to dissect demographic and financial data, visualizing key risk indicators to drive smarter lending strategies and proactive risk management.
 </p>
 <p>
-  🔗 <a href="https://public.tableau.com/app/profile/yourhandle">View Portfolio</a>
+  🔗 <a href="https://github.com/Rysin09/Loan-Default-Risk-Analysis">View Portfolio</a>
 </p>
 
 </td>
