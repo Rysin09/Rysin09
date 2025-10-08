@@ -180,9 +180,9 @@ A comprehensive data warehouse and business intelligence project designed to ext
 
 ###  Let’s Connect
 
-- 🌐 Portfolio: [your-portfolio.site](https://your-portfolio.site)  
-- 💼 LinkedIn: [linkedin.com/in/your-handle](https://linkedin.com/in/your-handle)  
-- ✉️ Email: [your.email@example.com](mailto:your.email@example.com)  
+- 🌐 Portfolio: [aryan-singh.framer.website](https://aryan-singh.framer.website/)  
+- 💼 LinkedIn: [linkedin.com/in/aryan-singh-358556245](https://www.linkedin.com/in/aryan-singh-358556245)  
+- ✉️ Email: [ace.aryan09@example.com](mailto:ace.aryan09@example.com)  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,100:fbbf24&height=120&section=footer&text=Thanks%20for%20visiting!%20🚀&fontSize=25&fontColor=FFFFFF" />
